@@ -1,0 +1,10 @@
+name: PackAdvice
+on: [push]
+jobs:
+  packadvice:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v4
+      - name: Run PackAdvice
+        uses: sya-ri/PackAdvice-action@master
