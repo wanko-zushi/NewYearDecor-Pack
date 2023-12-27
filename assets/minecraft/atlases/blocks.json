@@ -2,8 +2,8 @@
     "sources": [
         {
             "type": "directory",
-            "source": "custom",
-            "prefix": "custom/"
+            "source": "1",
+            "prefix": "1/"
         }
     ]
 }
