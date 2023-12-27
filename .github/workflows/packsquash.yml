@@ -14,7 +14,7 @@ jobs:
           allow_optifine_mod: true # デフォルト: false / Optifine の有効化
           maximum_image_width_and_height: 8192 # デフォルト: 8192 / 画像の最大幅・高さ
       - name: Download Optimized Pack
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v3
         with:
           name: Optimized pack
       - name: Create Release
