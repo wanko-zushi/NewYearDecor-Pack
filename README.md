@@ -1,22 +1,12 @@
-# Pack Format of ResourcePack
+# NewYearDecor ResourcePack
+![](assets/discord.png)
 
-| バージョン       | pack_formatの値 |
-| --------------- | -------------- |
-| 1.6.x - 1.8.x   | 1              |
-| 1.9.x - 1.10.x  | 2              |
-| 1.11.x - 1.12.x | 3              |
-| 1.13.x - 1.14.x | 4              |
-| 1.15.x - 1.16.1 | 5              |
-| 1.16.2 - 1.16.5 | 6              |
-| 1.17.x          | 7              |
-| 1.18.x          | 8              |
-| 1.19 - 1.19.2   | 9              |
-| ---             | 10             |
-| 22w42a - 22w44a | 11             |
-| 22w45a - 1.19.3 | 12             |
-| 1.19.4          | 13             |
-| 23w14a – 23w16a | 14             |
-| 1.20 - 1.20.1   | 15             |
+The NewYearDecor is a texture pack designed for Minecraft: Java Edition, featuring a variety of New Year's decorations.
 
+## 
 
-`最終更新：2023/02/27`
+キャッチとなる画像
+動作環境
+ダウンロードの仕方
+ブロックベンチへの感謝
+ライセンス表示
