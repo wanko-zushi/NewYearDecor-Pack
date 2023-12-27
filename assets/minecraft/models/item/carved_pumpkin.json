@@ -1,6 +1,8 @@
 {
     "parent": "minecraft:block/carved_pumpkin",
     "overrides": [
-        {"predicate": {"custom_model_data": 1}, "model": "custom/1"}
+        {"predicate": {"custom_model_data": 1}, "model": "1:1/0"},
+        {"predicate": {"custom_model_data": 2}, "model": "1:1/1"},
+        {"predicate": {"custom_model_data": 3}, "model": "1:1/2"}
     ]
 }
