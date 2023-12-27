@@ -13,18 +13,12 @@ The NewYear's Decor is a texture pack designed for Minecraft: Java Edition, feat
 
 - `NewYear's-Decor.zip` : This is a resource pack.
 
+ ### [v1.0(Latest)]()
+
 ## Special Thanks
 
 This resource pack was created using Blockbench. Seriously, it's always been a huge help. Thank you so much, Blockbench.
 
 ## License
  ![](https://github.com/wanko-zushi/NewYearDecor-Pack/assets/74033831/fc049162-0a82-40c6-af76-fe9b7074f78d)
- 
- ### [v1.0(Latest)]()
 
-
-キャッチとなる画像
-動作環境
-ダウンロードの仕方
-ブロックベンチへの感謝
-ライセンス表示
